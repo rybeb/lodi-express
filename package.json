@@ -1,0 +1,26 @@
+{
+  "name": "lodi",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "lodi express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rybeb/lodi-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rybeb/lodi-express/issues"
+  },
+  "homepage": "https://github.com/rybeb/lodi-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
