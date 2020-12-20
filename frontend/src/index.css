@@ -130,6 +130,10 @@ a.brand {
   min-width: 30rem;
 }
 
+.mr-3 {
+  margin-right: 3rem;
+}
+
 /* Image */
 img {
   border-radius: 0.5rem;
@@ -155,6 +159,12 @@ img.large {
 }
 .card-body {
   padding: 1rem;
+}
+.card-body h2 {
+  white-space: nowrap;
+  width: 270px;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .card-body > * {
   margin-bottom: 0.5rem;
@@ -189,4 +199,18 @@ img.large {
 .alert-danger {
   color: #a02020;
   background-color: #ffe0e0;
+}
+/* Form */
+.form {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+.form > div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.form label {
+  margin: 1rem 0;
+  display: block;
 }

@@ -17,7 +17,7 @@ const data = {
   ],
   products: [
     {
-      name: `Women's blouse Summer...`,
+      name: `Women's blouse Summer sleeveless Chiffon shirt Solid V-neck Casual blouse – Ozzy Bella All Great Apparel`,
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 25,
@@ -28,8 +28,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      // name: `2020 Autumn Shirts Women Long Sleeve Blouses Shirt Runway Designer Tops For Women Top Brand Luxury Print Blouse Blusa Feminina`,
-      name: `2020 Autumn Shirts...`,
+      name: `2020 Autumn Shirts Women Long Sleeve Blouses Shirt Runway Designer Tops For Women Top Brand Luxury Print Blouse Blusa Feminina`,
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 22.48,
@@ -40,8 +39,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      // name: `Autumn Blouses Women Long Sleeve Print Shirts Blouse Designer Runway Tops 2021 Women High Quality Fashion Ladies Office Shirt`,
-      name: `Autumn Blouses Women...`,
+      name: `Autumn Blouses Women Long Sleeve Print Shirts Blouse Designer Runway Tops 2021 Women High Quality Fashion Ladies Office Shirt`,
       category: 'Shirts',
       image: '/images/p3.jpg',
       price: 19.18,
@@ -52,8 +50,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      // name: `2021 Spring Autumn Dotted Sexy V Neck Blouse Shirts Women Casual`,
-      name: `2021 Spring Autumn...`,
+      name: `2021 Spring Autumn Dotted Sexy V Neck Blouse Shirts Women Casual`,
       category: 'Shirts',
       image: '/images/p4.jpg',
       price: 21.66,
@@ -64,8 +61,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      // name: `Women Autumn Casual Long Sleeve Cotton Linen Blouse Shirts Elegant Floral Print Female Tops Ladies Plus Size Streetwear Blouses`,
-      name: `Women Autumn Casual...`,
+      name: `Women Autumn Casual Long Sleeve Cotton Linen Blouse Shirts Elegant Floral Print Female Tops Ladies Plus Size Streetwear Blouses`,
       category: 'Shirts',
       image: '/images/p5.jpg',
       price: 12.77,
@@ -76,8 +72,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      // name: `Women Elegant O-Neck Solid Color Dress 2020 Autumn Casual Short Sleeve Button Party Dress Lady Loose Cotton Midi Dresses Vestidos`,
-      name: `Women Elegant O-Neck...`,
+      name: `Women Elegant O-Neck Solid Color Dress 2020 Autumn Casual Short Sleeve Button Party Dress Lady Loose Cotton Midi Dresses Vestidos`,
       category: 'Shirts',
       image: '/images/p6.jpg',
       price: 15.94,
